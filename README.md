@@ -10,8 +10,8 @@ API REST para gestión de empleados con Spring Boot y Docker
 
 ### 1. Clonar repositorio
 ```bash
-git clone https://github.com/SalvadorJL/empleados-api.git
-cd empleados-api
+git clone https://github.com/SalvadorJL/empleados.git
+cd empleados
 ```
 
 ### 2. Create database
